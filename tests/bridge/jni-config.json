@@ -1,6 +1,0 @@
-[
-  {
-    "name": "JNIWeakSmoke",
-    "methods": [{"name": "collect", "parameterTypes": []}]
-  }
-]

@@ -1,9 +1,0 @@
-/upstream/
-/build*/
-*.dSYM/
-/.toolchains/
-__pycache__/
-/.local/
-/evidence/
-/graal_dumps/
-*.log

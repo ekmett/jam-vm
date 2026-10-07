@@ -1,3 +1,0 @@
-# Keep shell entry points and exported patches unchanged on Windows.
-*.sh text eol=lf
-*.patch text eol=lf -whitespace
